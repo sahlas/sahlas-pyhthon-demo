@@ -1,4 +1,4 @@
-# sahlas-pyhthon-course-demo
+# Python in Production Cookie Cutter Project
 
 ## Quick start
 
