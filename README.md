@@ -15,7 +15,7 @@ from sahlas_python_course_demo_05_16_2025 import ...
 ```bash
 # clone the repo
 git clone https://github.com/sahlas/sahlas-pyhthon-demo.git
-
+cd sahlas-python-demo
 # install the dev dependencies
 make install
 
